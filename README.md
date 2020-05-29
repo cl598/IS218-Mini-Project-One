@@ -1,2 +1,1 @@
-# IS218-Mini-Project-One
-IS218
+# **IS218-450 : Mini Project One**
