@@ -26,3 +26,4 @@ Status
 Allows you to see the staging area of the working directory, it does not however show the commited project history
 
 Master Branches
+The master branch is the latest working version of the code. It is also the default for many other features.
