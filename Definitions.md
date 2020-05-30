@@ -1,4 +1,4 @@
-#Commit
+# Commit
   - Commiting code allows for changes to be made on the local system. This will have no affect on the remote until it is pushed to it.
 
 # Merge
