@@ -11,6 +11,7 @@ Push
 Uploads the local repository to the remote and automatically attempts to apply the changes made.
 
 Pull
+Direct opposite of pushing, takes the remote repository and updates the local.
 
 Remote Add
 
