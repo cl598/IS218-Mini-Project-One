@@ -33,3 +33,6 @@
   
 # Clone
   - Copy of a repository or the action of copying a repository
+
+# Fork
+  - Personal copy of another users' respository
