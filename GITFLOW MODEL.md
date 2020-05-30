@@ -32,3 +32,8 @@ Code begins its testing in the *release* branch, and examine for any problems to
 ![Step five](https://datasift.github.io/gitflow/GitFlowHotfixBranch.png)
 
 *Hotfix* branch is for emergency fixes, which are branched off of the *master* branch. When finished, it merges to the *develop* and *master* branches to also preserve the updated code from any accidental deletions.
+
+# REFERENCE
+
+* Driessen, Vincent. “Introducing GitFlow.” Introducing GitFlow, 2015, datasift.github.io/gitflow/IntroducingGitFlow.html.
+
