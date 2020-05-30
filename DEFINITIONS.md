@@ -39,3 +39,13 @@
 
 # Branch
   - Version of the repository that separates from the main version
+
+# REFERENCES
+
+* “GitHub Glossary.” GitHub Glossary - GitHub Help, help.github.com/en/github/getting-started-with-github/github-glossary. 
+
+* “Bitbucket Support.” Basic Git Commands - Atlassian Documentation, confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html. 
+
+* “Fork a Repo.” Fork a Repo - GitHub Help, help.github.com/en/github/getting-started-with-github/fork-a-repo. 
+
+* “2.5 Git Basics - Working with Remotes.” Git, git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes. 
