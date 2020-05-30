@@ -30,3 +30,5 @@ Code begins its testing in the *release* branch, and examine for any problems to
 *Master* branch only has the released code; commits are only merges from the *release* and *hotfix* branches.
 
 ![Step five](https://datasift.github.io/gitflow/GitFlowHotfixBranch.png)
+
+*Hotfix* branch is for emergency fixes, which are branched off of the *master* branch. When finished, it merges to the *develop* and *master* branches to also preserve the updated code from any accidental deletions.
