@@ -34,11 +34,17 @@
 # Clone
   - Copy of a repository or the action of copying a repository
 
+    *git clone*
+
 # Fork
   - Personal copy of another users' respository
 
+    *git clone [github user HTTPS link]*
+
 # Branch
   - Version of the repository that separates from the main version
+  
+    *git branch [branch name]*    <-- git command that creates a new branch
 
 # REFERENCES
 
