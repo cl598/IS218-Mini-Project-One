@@ -14,3 +14,7 @@ There are five branches...
 Every new development starts in the *feature* branch, where the developers begin building the code.
 
 ![Step One](https://datasift.github.io/gitflow/GitFlowFeatureBranches.png)
+
+*Feature* branch is branched off of the *develop* branch to merge the completed coding components back to the *develop* branch for the release.
+
+![Step Two](https://datasift.github.io/gitflow/GitFlowDevelopBranch.png)
