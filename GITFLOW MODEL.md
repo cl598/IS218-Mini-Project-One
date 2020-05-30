@@ -22,3 +22,7 @@ Every new development starts in the *feature* branch, where the developers begin
 Once the code is ready for release, the *release* branch is created off of the *develop* branch.
 
 ![Step Three](https://datasift.github.io/gitflow/GitFlowReleaseBranch.png)
+
+Code begins its testing in the *release* branch, and examine for any problems to get fixed. It goes into the *deploy* --> *test* --> *fix* --> *redeploy* --> *retest* cycle on repeat until it is suitable enough for consumers to use. Once ready, it will merge into the *master* and *develop* branches to preserve the updated code from any accidental deletions.
+
+![Step four](https://datasift.github.io/gitflow/GitFlowMasterBranch.png)
