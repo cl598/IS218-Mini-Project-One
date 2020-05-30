@@ -2,6 +2,7 @@ Commit
 Commiting code allows for changes to be made on the local system. This will have no affect on the remote until it is pushed to it.
 
 Merge
+Combines multiple groups of commits into one history, the primary use of this is to combine 2 or more branches into the master.
 
 Checkout
 
