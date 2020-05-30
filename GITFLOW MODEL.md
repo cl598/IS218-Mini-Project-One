@@ -8,3 +8,9 @@ There are five branches...
 * Release
 * Hotfix
 * Master
+
+# GITFLOW BRANCHING MODEL
+
+Every new development starts in the *feature* branch, where the developers begin building the code.
+
+![Step One](https://datasift.github.io/gitflow/GitFlowFeatureBranches.png)
