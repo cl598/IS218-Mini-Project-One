@@ -5,6 +5,7 @@ Merge
 Combines multiple groups of commits into one history, the primary use of this is to combine 2 or more branches into the master.
 
 Checkout
+Allows for target entities to be switched i.e files, commits, and branches
 
 Push
 
