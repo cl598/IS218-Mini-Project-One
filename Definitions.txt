@@ -14,6 +14,7 @@ Pull
 Direct opposite of pushing, takes the remote repository and updates the local.
 
 Remote Add
+Creates a new name for a branch on the repositoryby default it is origin.
 
 Remote Remove
 
