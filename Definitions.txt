@@ -20,6 +20,7 @@ Remote Remove
 Disconnects the remote from the local
 
 Remote Show
+Prints one or more selected objects
 
 Status
 
