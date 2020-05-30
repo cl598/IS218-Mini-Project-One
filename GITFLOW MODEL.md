@@ -26,3 +26,7 @@ Once the code is ready for release, the *release* branch is created off of the *
 Code begins its testing in the *release* branch, and examine for any problems to get fixed. It goes into the *deploy* --> *test* --> *fix* --> *redeploy* --> *retest* cycle on repeat until it is suitable enough for consumers to use. Once ready, it will merge into the *master* and *develop* branches to preserve the updated code from any accidental deletions.
 
 ![Step four](https://datasift.github.io/gitflow/GitFlowMasterBranch.png)
+
+*Master* branch only has the released code; commits are only merges from the *release* and *hotfix* branches.
+
+![Step five](https://datasift.github.io/gitflow/GitFlowHotfixBranch.png)
