@@ -17,6 +17,7 @@ Remote Add
 Creates a new name for a branch on the repositoryby default it is origin.
 
 Remote Remove
+Disconnects the remote from the local
 
 Remote Show
 
