@@ -18,3 +18,7 @@ Every new development starts in the *feature* branch, where the developers begin
 *Feature* branch is branched off of the *develop* branch to merge the completed coding components back to the *develop* branch for the release.
 
 ![Step Two](https://datasift.github.io/gitflow/GitFlowDevelopBranch.png)
+
+Once the code is ready for release, the *release* branch is created off of the *develop* branch.
+
+![Step Three](https://datasift.github.io/gitflow/GitFlowReleaseBranch.png)
