@@ -40,6 +40,7 @@
   **Matthew Keaton**
   
   * DEFINITIONS.md
+  
     - Feature: Added Terms
     - Feature: Definition for 'Commit'
     - Feature: Definition of 'Merge'
