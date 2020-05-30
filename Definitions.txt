@@ -23,5 +23,6 @@ Remote Show
 Prints one or more selected objects
 
 Status
+Allows you to see the staging area of the working directory, it does not however show the commited project history
 
 Master Branches
