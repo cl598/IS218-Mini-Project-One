@@ -30,3 +30,6 @@
   
 # Repository
   - Contains all of the project files, and stores each files' revision history
+  
+# Clone
+  - Copy of a repository or the action of copying a repository
