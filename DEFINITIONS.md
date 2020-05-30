@@ -27,3 +27,6 @@
 
 # Master Branches
   - The master branch is the latest working version of the code. It is also the default for many other features.
+  
+# Repository
+  - Contains all of the project files, and stores each files' revision history
