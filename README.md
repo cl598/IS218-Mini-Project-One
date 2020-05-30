@@ -21,13 +21,21 @@
     - Fix: added some git command examples
   
   * GITFLOW MODEL.md
-    - Feature: added the gitflow branching model
-    - Fix: renamed gitflow.mb to GITFLOW MODEL.md
-    - Fix: updated the GITFLOW MODEL.md from bold to the heading tag
-    - Fix: added the gitflow definition
+    - Feature: added the gitflow definition
+    - Feature: added part one of branch model
+    - Feature: added part two of branch model
+    - Feature: added part three of branch model
+    - Feature: added part four of branch model
+    - Feature: added part five of branch model
+    - Feature: hoxfix branch explanation
+    - Fix: added the reference section
   
   * BENEFITS.md  
-    - Feature: added the benefits
+    - Feature: added Git definition and explanation
+    - Feature: added Docker definition and explanation
+    - Feature: added Automated Testing definition and explanation
+    - Feature: added Continuous integeration definition and explanation
+    - Fix: added the reference(s) section
  
   **Matthew Keaton**
   
