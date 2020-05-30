@@ -11,3 +11,7 @@
 **Automated testing** is a method to test and compare the expectation versus the reality of the outcome.
 
 > Using the *automated testing* method will become faster for development, with more reliable outcomes. It has better accuracy compared to the manual testing method run by humans.
+
+**Continuous integeration** is when developers update the code changes to the main project frequently.
+
+> Applying the *Continuous integeration* method to every developer's work habit will allow the workflow to become much easier because they will be able to avoid revising outdated code-- saving time to apply for other coding components that may need more attention, and for a faster release.
