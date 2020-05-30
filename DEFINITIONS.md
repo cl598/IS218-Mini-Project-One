@@ -36,3 +36,6 @@
 
 # Fork
   - Personal copy of another users' respository
+
+# Branch
+  - Version of the repository that separates from the main version
