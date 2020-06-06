@@ -2,7 +2,7 @@
 
 # Group Members
 * Matthew Keaton
-* Christian Le
+* Christian Le - team leader
 
 # Index
 * [Definitions](https://github.com/cl598/IS218-Mini-Project-One/blob/master/DEFINITIONS.md)
