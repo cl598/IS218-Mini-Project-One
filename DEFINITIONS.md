@@ -45,6 +45,36 @@
   - Version of the repository that separates from the main version
   
     *git branch [branch name]*    <-- git command that creates a new branch
+    
+# CHANGELOG
+
+**Christian**
+
+* Feature: added the repository definition
+* Feature added the fork definition
+* Feature: added the branch definition
+* Fix: added the reference(s) section
+* Fix: added some git command examples
+
+**Matthew**
+
+* Feature: Added Terms
+* Feature: Definition for 'Commit'
+* Feature: Definition of 'Merge'
+* Feature: Added definition of 'checkout'
+* Feature: Definition of 'Push'
+* Feature: Defintiion of 'pull'
+* Feature: Definition of remote add
+* Feature: Definition of remote remove
+* Feature: Definition for remote show
+* Feature: Definition of Status
+* Feature: Definition of Master Branches
+* Fix: Formatting for markdown
+* Fix: File extension
+* Fix: Markdown Issues
+* Fix: Final Markdown Fix
+* Fix: file extension fix
+* Fix: Name
 
 # REFERENCES
 
