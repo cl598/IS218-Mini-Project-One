@@ -16,6 +16,15 @@
 
 > Applying the *Continuous integeration* method to every developer's work habit will allow the workflow to become much easier because they will be able to avoid revising outdated code-- saving time to apply for other coding components that may need more attention, and for a faster release.
 
+# CHANGELOG
+
+**Christian**
+* Feature: added Git definition and explanation
+* Feature: added Docker definition and explanation
+* Feature: added Automated Testing definition and explanation
+* Feature: added Continuous integeration definition and explanation
+* Fix: added the reference(s) section
+
 # REFERENCE(S)
 
 * “1.3 Getting Started - What Is Git?” Git, git-scm.com/book/en/v2/Getting-Started-What-is-Git?. 
